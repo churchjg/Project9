@@ -9,7 +9,7 @@ To run the application locally, make sure to have pipenv installed on your machi
 
 Then run the in the command line - python app.py or python(#) app.py depending on what version of python is installed, to start the app.
 
-```
+
 
 ## Development
 

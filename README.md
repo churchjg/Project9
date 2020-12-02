@@ -7,7 +7,7 @@ This application replicates a contact book and is intended to be utilized via th
 To run the application locally, make sure to have pipenv installed on your machine and fork and clone this repository. Once the repo has been cloned locally, run `pipenv install` to install dependencies listed in the Pipfile. Start your Postgres server on your machine and update the user and password on line 6 in app.py to match that of your local Postgres database.
 
 
-python app.py or python(#) app.py depending on what version of python is installed.
+Then run the in the command line - python app.py or python(#) app.py depending on what version of python is installed, to start the app.
 
 ```
 
